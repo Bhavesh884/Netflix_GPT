@@ -14,3 +14,10 @@
 - Netflix with gpt
   - Searchbar
   - Movie Suggestion
+
+# Steps
+
+- create react app
+- configured tailwind css
+- Header
+- Login Form

@@ -1,5 +1,7 @@
+import Body from "./components/Body";
+
 const App = () => {
-  return <div className="font-bold text-5xl">vhgcgc</div>;
+  return <Body />;
 };
 
 export default App;
