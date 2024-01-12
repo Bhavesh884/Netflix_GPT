@@ -21,3 +21,6 @@
 - configured tailwind css
 - Header
 - Login Form
+- Sign Up Form
+- Form Validation
+- use ref hook
